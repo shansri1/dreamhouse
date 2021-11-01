@@ -13,7 +13,7 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment
-        >Shanmugam Action changes from Github override created by Lightning App Builder during activation.</comment>
+        >Shanmugam Action changes by shanmugam2nd time override created by Lightning App Builder during activation.</comment>
         <content>Property_Record_Page</content>
         <formFactor>Large</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
